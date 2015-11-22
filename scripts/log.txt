@@ -1,0 +1,6 @@
+searching Aleris Voxnadalens Hälsocentral,Långgatan 59
+Get: http://www.hitta.se/s%C3%B6k?vad=Aleris+Voxnadalens+H%C3%A4lsocentral%2CL%C3%A5nggatan+59
+Error search: http://www.hitta.se/s%C3%B6k?vad=Aleris+Voxnadalens+H%C3%A4lsocentral%2CL%C3%A5nggatan+59
+RETRY: http://www.hitta.se/s%C3%B6k?vad=Aleris+Voxnadalens+H%C3%A4lsocentral%2CL%C3%A5nggatan+59
+Error search: http://www.hitta.se/s%C3%B6k?vad=Aleris+Voxnadalens+H%C3%A4lsocentral%2CL%C3%A5nggatan+59
+RETRY: http://www.hitta.se/s%C3%B6k?vad=Aleris+Voxnadalens+H%C3%A4lsocentral%2CL%C3%A5nggatan+59
